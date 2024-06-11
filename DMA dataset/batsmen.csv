@@ -1,0 +1,77 @@
+Player_ID,Player_name,Age,Stance,Batting_order,Wicketkeeper,Bowler_Type
+1001,"MS Dhoni",42,Right,"Middle ",Yes,NA
+1002,"Devon Conway",32,Left,Opener,Yes,NA
+1003,"Ruturaj Gaikwad",26,Right,Opener,No,NA
+1004,"Ambati Rayudu",38,Right,"Middle ",Yes,NA
+1005,"Subhranshu Senapati",26,Right,"Middle ",No,NA
+1019,"Ajinkya Rahane",35,Right,"Middle ",No,NA
+1021,"Shaik Rasheed",19,Right,"Middle ",No,NA
+1022,"Nishant Sindhu",19,Left,"Middle ",No,NA
+1026,"Abhishek Porel",21,Left,"Middle ",Yes,NA
+1028,"Prithvi Shaw",24,Right,Opener,No,NA
+1030,"David Warner",37,Left,Opener,No,NA
+1032,"Sarfaraz Khan",26,Right,"Middle ",Yes,NA
+1033,"Priyam Garg",22,Right,"Middle ",No,NA
+1040,"Yash Dhull",21,Right,"Middle ",No,NA
+1041,"Rovman Powell",30,Right,"Middle ",No,NA
+1045,"Phil Salt",27,Right,"Middle ",Yes,NA
+1048,"Manish Pandey",34,Right,"Middle ",No,NA
+1049,"Rilee Rossouw",34,Left,"Middle ",No,NA
+1051,"Shubman Gill",24,Right,Opener,No,NA
+1052,"David Miller",34,Left,"Middle ",No,NA
+1053,"Abhinav Manohar",29,Right,"Middle ",No,NA
+1054,"Sai Sudharsan",22,Left,"Middle ",No,NA
+1055,"Wriddhiman Saha",39,Right,Opener,Yes,NA
+1056,"Matthew Wade",35,Left,"Middle ",Yes,NA
+1069,"KS Bharat",30,Right,"Middle ",Yes,NA
+1071,"Urvil Patel",25,Right,"Middle ",Yes,NA
+1074,"Nitish Rana",29,Left,Opener,No,NA
+1083,"Rinku Singh",26,Left,"Middle ",No,NA
+1084,"Rahmanullah Gurbaz",21,Right,"Middle ",Yes,NA
+1087,"N Jagadeesan",27,Right,"Middle ",Yes,NA
+1092,"Mandeep Singh",31,Right,"Middle ",No,NA
+1093,"Jason Roy",33,Right,Opener,No,NA
+1094,"Aarya Desai",20,Left,"Middle ",No,NA
+1095,"Johnson Charles",34,Right,"Middle ",Yes,NA
+1096,"KL Rahul",31,Right,Opener,Yes,NA
+1099,"Quinton De Kock",30,Left,Opener,Yes,NA
+1105,"Manan Vohra",30,Right,"Middle ",No,NA
+1108,"Kyle Mayers",31,Left,Opener,No,NA
+1110,"Nicholas Pooran",28,Left,"Middle ",Yes,NA
+1119,"Suryansh Shedge",20,Right,"Middle ",No,NA
+1120,"Rohit Sharma",36,Right,Opener,No,NA
+1122,"Suryakumar Yadav",33,Right,"Middle ",No,NA
+1123,"Ishan Kishan",25,Left,Opener,Yes,NA
+1124,"Dewald Brevis",20,Right,"Middle ",No,NA
+1125,"Tilak Varma",21,Left,"Middle ",No,NA
+1128,"Ramandeep Singh",26,Right,"Middle ",No,NA
+1131,"Tristan Stubbs",23,Right,"Middle ",Yes,NA
+1139,"Vishnu Vinod",29,Right,"Middle ",Yes,NA
+1145,"Shikhar Dhawan",37,Left,Opener,No,NA
+1150,"Prabhsimran Singh",23,Right,"Middle ",Yes,NA
+1151,"Jitesh Sharma",30,Right,"Middle ",Yes,NA
+1158,"Bhanuka Rajapaksa",32,Left,"Middle ",Yes,NA
+1161,"Harpreet Bhatia",32,Left,"Middle ",No,NA
+1165,"Sanju Samson",29,Right,"Middle ",Yes,NA
+1166,"Jos Buttler",33,Right,Opener,Yes,NA
+1167,"Yashasvi Jaiswal",21,Left,Opener,No,NA
+1170,"Shimron Hetmyer",26,Left,"Middle ",No,NA
+1171,"Devdutt Padikkal",23,Left,Opener,No,NA
+1179,"Dhruv Jurel",22,Right,"Middle ",Yes,NA
+1182,"Donovan Ferreira",25,Right,"Middle ",No,NA
+1183,"Kunal Rathore",21,Left,"Middle ",Yes,NA
+1188,"Joe Root",32,Right,"Middle ",No,NA
+1192,"Faf Du Plessis",39,Right,Opener,No,NA
+1195,"Dinesh Karthik",38,Right,"Middle ",Yes,NA
+1197,"Anuj Rawat",24,Left,"Middle ",Yes,NA
+1201,"Finn Allen",24,Right,"Middle ",Yes,NA
+1202,"Suyash Prabhudessai",25,Right,"Middle ",No,NA
+1212,"Abdul Samad",22,Right,"Middle ",No,NA
+1215,"Rahul Tripathi",32,Right,"Middle ",No,NA
+1220,"Aiden Markram",29,Right,"Middle ",No,NA
+1222,"Glenn Phillips",26,Right,"Middle ",Yes,NA
+1224,"Harry Brook",24,Right,Opener,No,NA
+1225,"Mayank Agarwal",32,Right,"Middle ",No,NA
+1226,"Heinrich Klaasen",32,Right,"Middle ",Yes,NA
+1231,"Upendra Singh Yadav",27,Right,"Middle ",Yes,NA
+1235,"Anmolpreet Singh",25,Right,"Middle ",No,NA
